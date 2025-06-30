@@ -26,11 +26,6 @@
 
   
 
-
-
-  ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=Desarrollo%20con%20pasi%C3%B3n)
-  <p align="center" height='140px'> <img src="https://komarev.com/ghpvc/?username=brianerik&label=Visitantes&color=31c442&style=plastic" alt="brianerik" /> </p>
-
 </h3>
 
 <a href="https://www.linkedin.com/in/brian-erik-rojas-bedregal-ab535a372/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="LinkedIn" align="right"></a>
