@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/brian-erik-rojas-bedregal-ab535a372/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="LinkedIn" align="right"></a>
 <a href="https://twitter.com/tu-twitter" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-¡Hola! Soy **Brian Erik**, un apasionado **Desarrollador Fullstack** con experiencia en JavaScript (React, Angular) y C# .NET. Me especializo en crear soluciones innovadoras y escalables. Cuando no estoy codificando, disfruto de los videojuegos 🎮 y la música 🎵.
+¡Hola! Soy **Brian Erik**,**Desarrollador Fullstack** con experiencia en JavaScript (React, Angular) y C# .NET. Me especializo en crear soluciones innovadoras y escalables. Cuando no estoy codificando, disfruto de los videojuegos 🎮 y la música 🎵.
 
 **Intereses:**  
 - Desarrollo de software (Frontend y Backend)  
